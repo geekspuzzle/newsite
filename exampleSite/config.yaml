@@ -95,7 +95,7 @@ params:
     title: "Pratyush."
     subtitle: "I enjoy learning about new things"
     content: "Interested in algorithmic problem solving and have interpersonal skills like Teamwork, Networking, and Leadership."
-    image: /images/hero.svg
+    image: /images/hero.png
     # image: /fav.png
     button:
       enable: true
